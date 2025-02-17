@@ -555,17 +555,17 @@ section {
 
 .skill-bar .bar .css {
     width: 100%;
-    animation: css 4s;
+    animation: css 2s;
 }
 
 .skill-bar .bar .javascript {
     width: 100%;
-    animation: javascript 4s;
+    animation: javascript 2s;
 }
 
 .skill-bar .bar .rubyonrails {
     width: 100%;
-    animation: rubyonrails 3s;
+    animation: rubyonrails 2s;
 }
 
 /* skill-right ------------- */
