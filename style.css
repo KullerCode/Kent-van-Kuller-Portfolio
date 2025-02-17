@@ -549,23 +549,23 @@ section {
 }
 
 .skill-bar .bar .html {
-    width: 85%;
+    width: 100%;
     animation: html 2s;
 }
 
 .skill-bar .bar .css {
-    width: 75%;
+    width: 100%;
     animation: css 4s;
 }
 
 .skill-bar .bar .javascript {
-    width: 60%;
+    width: 100%;
     animation: javascript 4s;
 }
 
-.skill-bar .bar .figma {
-    width: 90%;
-    animation: figma 3s;
+.skill-bar .bar .rubyonrails {
+    width: 100%;
+    animation: rubyonrails 3s;
 }
 
 /* skill-right ------------- */
