@@ -1,5 +1,5 @@
 // home text ///////////////////////////
-
+/*
 let words = document.querySelectorAll(".word");
 words.forEach((word) => {
   let letters = word.textContent.split("");
@@ -41,7 +41,7 @@ let changeText = () => {
 
 changeText();
 setInterval(changeText, 3000);
-
+ */
 // circle skill ///////////////////////////////////////////////
 
 const circles = document.querySelectorAll(".circle");
@@ -112,6 +112,7 @@ const observer = new IntersectionObserver((entries) => {
     }
   });
 });
+
 
 const scrollScale = document.querySelectorAll(".scroll-scale");
 scrollScale.forEach((el) => observer.observe(el));
