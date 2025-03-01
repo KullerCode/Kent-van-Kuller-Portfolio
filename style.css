@@ -554,22 +554,32 @@ width: 100%;
 
 .skill-bar .bar .html {
     width: 100%;
-    animation: html 2s;
+    animation: html 1s;
 }
 
 .skill-bar .bar .css {
     width: 100%;
-    animation: css 2s;
+    animation: css 1s;
 }
 
 .skill-bar .bar .javascript {
     width: 100%;
-    animation: javascript 2s;
+    animation: javascript 1s;
 }
 
 .skill-bar .bar .rubyonrails {
     width: 100%;
-    animation: rubyonrails 2s;
+    animation: rubyonrails 1s;
+}
+
+.skill-bar .bar .react {
+    width: 100%;
+    animation: react 1s;
+}
+
+.skill-bar .bar .node {
+    width: 100%;
+    animation: node 1s;
 }
 
 /* skill-right ------------- */
