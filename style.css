@@ -1,6 +1,4 @@
-body {
-background-color: #6F8FAF; /* French Blue */
-}
+
 .headshot {
     max-width: 200px;
 }
@@ -14,6 +12,7 @@ body {
   min-height: 100vh;
   margin: 0;
   text-align: center;
+  background-color: #6F8FAF; /* French Blue */
 }
 main {
   display: flex;
