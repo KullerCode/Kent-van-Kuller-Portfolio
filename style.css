@@ -26,3 +26,8 @@ main {
     font-size: 2em;
 
 }
+
+.card-img-top {
+    height: 220px;
+    object-fit: cover;
+}
